@@ -4,11 +4,11 @@
 
 ### Full Stack AI Engineer · 13+ Years Building Intelligent Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/great-radiance)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/great-radiance) -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/great-radiance)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:great.radiance@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaylan.ai@outlook.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Architecting+AI-native+products;From+prototype+to+production+at+scale;Turning+complexity+into+elegant+systems" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Architecting+AI-native+products;Go+%2B+Python+backends+at+scale;From+prototype+to+production" alt="Typing intro" />
 
 </div>
 
@@ -26,41 +26,35 @@ I care about **clarity over cleverness**: systems that are maintainable, measura
 
 | Domain | Focus |
 |--------|--------|
-| **AI & ML** | LLMs, RAG, embeddings, fine-tuning, agent orchestration, MLOps |
-| **Backend** | APIs, microservices, event-driven architecture, databases |
-| **Frontend** | React, TypeScript, responsive UI, design systems |
-| **Cloud & DevOps** | AWS/GCP, Docker, Kubernetes, CI/CD, IaC |
-| **Engineering** | System design, performance, security, technical leadership |
+| **Languages** | **Go**, Python, TypeScript, JavaScript — polyglot services, concurrency, clean APIs |
+| **AI & ML** | LLMs, RAG, embeddings, fine-tuning, agent orchestration, vector search, MLOps |
+| **Backend** | **Go** microservices, gRPC, REST/GraphQL, event-driven architecture, high-throughput APIs |
+| **Frontend** | React, Next.js, TypeScript, responsive UI, design systems, real-time interfaces |
+| **Data & Storage** | PostgreSQL, Redis, MongoDB, Elasticsearch, data modeling, query optimization |
+| **Messaging & Streaming** | Kafka, RabbitMQ, WebSockets, async pipelines, distributed job queues |
+| **Cloud & DevOps** | AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, observability (Prometheus, Grafana) |
+| **Engineering** | System design, performance tuning, security, code review, technical leadership |
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,go,docker,kubernetes,aws,gcp,postgres,redis,git&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,python,ts,react,nodejs,nextjs,docker,kubernetes,aws,gcp,postgres,redis,mongodb,kafka,graphql,git&perline=14" alt="Tech stack" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Gin" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=great-radiance&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=great-radiance&theme=github-dark&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=great-radiance&theme=github-dark&hide_border=true&area=true" alt="Contribution graph" />
-
-</div>
 
 ---
 
