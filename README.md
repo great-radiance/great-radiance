@@ -4,9 +4,9 @@
 
 ### Full Stack AI Engineer · 13+ Years Building Intelligent Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/great-radiance)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-delavega-4a617b2a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/great-radiance)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaylan.ai@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaysondelavega90@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Architecting+AI-native+products;Go+%2B+Python+backends+at+scale;From+prototype+to+production" alt="Typing intro" />
 
@@ -16,7 +16,7 @@
 
 ## About
 
-Senior engineer with **13+ years** shipping production software across the full stack — from distributed backends and cloud infrastructure to polished user experiences. I specialize in **integrating AI into real products**: LLM pipelines, RAG systems, agents, and the observability, security, and UX patterns that make them reliable in production.
+Senior engineer with **14+ years** shipping production software across the full stack — from distributed backends and cloud infrastructure to polished user experiences. I specialize in **integrating AI into real products**: LLM pipelines, RAG systems, agents, and the observability, security, and UX patterns that make them reliable in production.
 
 I care about **clarity over cleverness**: systems that are maintainable, measurable, and built to last.
 
